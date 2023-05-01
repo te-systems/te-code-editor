@@ -1,6 +1,13 @@
 # te-code-editor
 
-## Concept Preview
+Description : Unavailable
 
-![te-code-editor](https://github.com/te-systems/te-desktop/blob/main/Concepts/te-code-editor-dark.png)
-![te-code-editor](https://github.com/te-systems/te-desktop/blob/main/Concepts/te-code-editor-light.png)
+
+# Platforms
+
+## [ Te Desktop ](Concepts/te-desktop)
+
+![te-code-editor](Concepts/te-desktop/file-view.png)
+
+## [ Windows ](Concepts/windows)
+![te-code-editor](Concepts/windows/file-view.png)
